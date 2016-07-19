@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+dnf -y install cabextract lzip p7zip p7zip-plugins unrar
